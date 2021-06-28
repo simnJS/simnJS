@@ -16,7 +16,7 @@
   <br>
   <br>
   <br>
-  <a href="https://simnJS.fr/">🌍 Mon site Web en cours de Développement 🌍</a>
+  <a href="https://simon.cef-informatique.com/">🌍 Mon site Web en cours de Développement 🌍</a>
   <br>
   <br>
   <br>
