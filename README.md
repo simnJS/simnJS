@@ -8,7 +8,7 @@
 ### <p align="center">🧠 &nbsp;Moi</p>
 <br>
 <p align="center">
-  Je m'appelle Simon j'ai 14 ans et j'apprend le JS. 🙂
+  Je m'appelle Simon j'ai 14 ans et je suis développeur JS. 🙂
   <br>
   <br>
   <br>
