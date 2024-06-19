@@ -32,7 +32,7 @@ Feel free to reach out via [contact@simnjs.fr](mailto:contact@simnjs.fr)
 Here are a few projects I've worked on recently:
 
 ### [DiamondCityRP](https://diamondcity.fr/)
-Description of Project 1.
+The best french roleplay server on FiveM
 
 ## 🎯 Goals for 2024
 - [ ] Learn Rust and build a project with it
