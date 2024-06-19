@@ -6,7 +6,7 @@
 I'm a passionate nodeJS developer with a love for creating innovative solutions and contributing to open-source projects. I have expertise in nodeJS, verse development, docker.
 
 - 🔭 I’m currently working on Private Project
-- 🌱 I’m currently learning [RUST]
+- 🌱 I’m currently learning RUST
 - 📫 How to reach me: [contact@simnjs.fr](mailto:contact@simnjs.fr)
 
 ## 🚀 Languages and Tools
