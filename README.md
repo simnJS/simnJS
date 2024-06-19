@@ -1,4 +1,4 @@
-# 👋 Hello! I'm [simnJS]
+# 👋 Hello! I'm simnJS
 
 [![GitHub followers](https://img.shields.io/github/followers/simnJS?label=Follow&style=social)](https://github.com/simnJS)
 
