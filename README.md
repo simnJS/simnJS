@@ -35,8 +35,8 @@ Here are a few projects I've worked on recently:
 ### [DiamondCityRP](https://diamondcity.fr/)
 The best french roleplay server on FiveM
 
-## 🎯 Goals for 2024
-- [ ] Learn Rust and build a project with it
+## 🎯 Goals for 2025
+- [ ] Become the best french verse developer
 
 ## 📝 License
 This profile README is licensed under the MIT License.
