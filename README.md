@@ -1,43 +1,59 @@
-# 👋 Hello, I'm simnJS
+# 👋 Hi, I'm **Simon (simnJS)**  
 
 [![GitHub followers](https://img.shields.io/github/followers/simnJS?label=Follow&style=social)](https://github.com/simnJS)
-
-## 👨‍💻 About Me
-I’m a passionate developer specialized in **Node.js** and creative system architecture. I constantly strive to push boundaries through innovative solutions and actively contribute to open-source projects.
-
-I’m also the founder of [Safia Creative](https://www.safia-creative.com/), a **UEFN studio** dedicated to building immersive and cutting-edge experiences inside **Fortnite**. To learn more about my work, feel free to explore [simnjs.fr](https://simnjs.fr).
-
-- 🔭 **Currently working on**: Private productions and experimental gameplay mechanics.
-- 🌱 **Currently learning**: Deepening my expertise in **VERSE**, the new language for Unreal Engine.
-- 📫 **Reach out**: [contact@simnjs.fr](mailto:contact@simnjs.fr)
-
-## 🚀 Skills & Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
-
-## 📈 GitHub Stats
-![simnJS's GitHub stats](https://github-readme-stats.vercel.app/api?username=simnJS&show_icons=true&theme=radical)
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=simnJS&theme=onedark)
-
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simnJS&layout=compact&theme=radical)
-
-## 🌐 Projects & Highlights
-### [DiamondCityRP](https://diamondcity.fr/)
-One of the leading FiveM French roleplay servers.
-
-### Safia Creative
-Explore [Safia Creative](https://www.safia-creative.com/), my **UEFN studio** focused on delivering innovative and immersive Fortnite experiences that blend gameplay, design, and technical mastery.
-
-## 📝 License
-This profile is released under the [MIT License](LICENSE).
+[![Website](https://img.shields.io/badge/Website-simnjs.fr-2e3440?style=flat&logo=google-chrome&logoColor=white)](https://simnjs.fr)
+[![Safia Creative](https://img.shields.io/badge/Studio-Safia%20Creative-4c566a?style=flat&logo=unrealengine&logoColor=white)](https://www.safia-creative.com/)
 
 ---
 
-For collaborations, inquiries, or just to say hi, reach out at [contact@simnjs.fr](mailto:contact@simnjs.fr) or visit [simnjs.fr](https://simnjs.fr).
+## 👨‍💻 About Me  
+
+I am a **software engineer** specialized in **Node.js** and scalable **system architecture**.  
+I design and develop **high-performance solutions** and contribute to **open-source projects**.  
+
+Founder of **[Safia Creative](https://www.safia-creative.com/)**, a **UEFN studio** focused on creating **immersive gameplay experiences** inside Fortnite.  
+
+📍 Based in Lyon, France  
+📫 Contact: [contact@simnjs.fr](mailto:contact@simnjs.fr)  
+
+---
+
+## 🚀 Core Skills  
+
+- **Programming:** Node.js, TypeScript, Python, C  
+- **Game Development:** Unreal Engine 5, Verse, UEFN  
+- **Tools & DevOps:** Docker, Git, CI/CD, Linux  
+- **Other Expertise:** System design, API development, automation  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=simnJS&show_icons=true&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simnJS&layout=compact&theme=default" height="160"/>
+</p>
+
+---
+
+## 🌐 Featured Projects  
+
+- 🎭 **[DiamondCityRP](https://diamondcity.fr/)**  
+  One of the leading French **FiveM roleplay servers**, focused on immersive RP experiences.  
+
+- 🎮 **[Safia Creative](https://www.safia-creative.com/)**  
+  A **creative studio** delivering cutting-edge **Fortnite experiences** using UEFN.  
+
+---
+
+## 🏆 Achievements  
+
+- Founder & CEO of **Safia Creative** (Fortnite / Roblox UGC studio)  
+- Successful projects in **gaming, automation, and creative tools**  
+- Active contributor to open-source and technical communities  
+
+---
+
+## 📜 License  
+
+This profile is released under the [MIT License](LICENSE).  
