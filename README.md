@@ -1,145 +1,97 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Simon%20·%20simnJS&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Node.js%20%7C%20System%20Architect%20%7C%20UEFN%20Creator&descAlignY=58&descSize=16&animation=fadeIn" alt="header banner"/>
-
-<p>
-  <a href="https://github.com/simnJS"><img src="https://img.shields.io/github/followers/simnJS?label=Followers&style=for-the-badge&color=0d1117&labelColor=161b22&logo=github" /></a>
-  <a href="https://simnjs.fr"><img src="https://img.shields.io/badge/Portfolio-simnjs.fr-0d1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=161b22" /></a>
-  <a href="https://www.safia-creative.com/"><img src="https://img.shields.io/badge/Studio-Safia%20Creative-0d1117?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=161b22" /></a>
-  <a href="mailto:contact@simnjs.fr"><img src="https://img.shields.io/badge/Contact-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" /></a>
-</p>
-
-<a href="https://github.com/simnJS">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=600&lines=Software+Engineer+%E2%9A%A1+Node.js+Specialist;System+Architect+%F0%9F%8F%97%EF%B8%8F+API+Builder;UEFN+Creator+%F0%9F%8E%AE+Open-Source+Contributor;Founder+of+Safia+Creative+%F0%9F%9A%80" alt="typing animation" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&weight=900&size=110&duration=1&pause=999999&color=0A0A0A&background=FFE500&center=true&vCenter=true&width=900&height=240&lines=simnJS%C2%B7" alt="simnJS" />
 
 </div>
 
----
+<br/>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f464/512.gif" width="24"> About Me
+<div align="center">
 
-I'm a **software engineer** specialized in **Node.js** and scalable **system architecture**. I design and build **high-performance solutions** and contribute to **open-source** projects.
+![UGC CREATOR](https://img.shields.io/badge/UGC%20CREATOR-0A0A0A?style=for-the-badge&labelColor=0A0A0A)
+![STUDIO FOUNDER](https://img.shields.io/badge/STUDIO%20FOUNDER-FF6B6B?style=for-the-badge&labelColor=0A0A0A)
+![LYON · FR](https://img.shields.io/badge/LYON%20%C2%B7%20FR-4ECDC4?style=for-the-badge&labelColor=0A0A0A)
+![AVAILABLE FOR COLLABS](https://img.shields.io/badge/AVAILABLE%20FOR%20COLLABS-9B5DE5?style=for-the-badge&labelColor=0A0A0A)
 
-Founder of **[Safia Creative](https://www.safia-creative.com/)** — a UEFN studio crafting **immersive gameplay experiences** inside Fortnite.
+</div>
 
-```yaml
-name: Simon (simnJS)
-location: Lyon, France 🇫🇷
-role: Software Engineer & Studio Founder
-focus: [Node.js, System Architecture, UEFN, Automation]
-contact: contact@simnjs.fr
-status: Open to collaborations ✨
+<br/>
+
+```
+software engineer · lyon, france
+founder of safia creative + play & chill
+building games, tooling and scalable systems
 ```
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="24"> Core Skills
-
-<div align="center">
-
-### Languages & Runtimes
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,python,c,bash" />
-</p>
-
-### Frameworks & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,nginx,redis,postgres,mongodb" />
-</p>
-
-### Game Development
-<p>
-  <img src="https://skillicons.dev/icons?i=unreal" />
-  <img src="https://img.shields.io/badge/Verse-000000?style=for-the-badge&logo=epicgames&logoColor=white" />
-  <img src="https://img.shields.io/badge/UEFN-313131?style=for-the-badge&logo=fortnite&logoColor=white" />
-</p>
-
-</div>
-
----
-
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="24"> GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/simnJS">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=simnJS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=00b4d8&title_color=00b4d8&text_color=ffffff&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simnJS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=ffffff&langs_count=8" />
-</a>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=simnJS&theme=tokyonight&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=simnJS&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
-
-</div>
-
----
-
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30d/512.gif" width="24"> Featured Projects
+## `// 01` selected work
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🎭 DiamondCityRP</h3>
-      <p>One of the leading <b>French FiveM roleplay servers</b>, focused on immersive RP experiences and a rich in-game economy.</p>
-      <a href="https://diamondcity.fr/"><img src="https://img.shields.io/badge/Visit-diamondcity.fr-00b4d8?style=for-the-badge&logo=fivem&logoColor=white&labelColor=0d1117" /></a>
+    <td width="50%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/01-SAFIA%20CREATIVE-FFE500?style=for-the-badge&labelColor=0A0A0A" /><br/><br/>
+      <sub><b>UEFN · STUDIO · 2024 →</b></sub>
+      <p align="left">UEFN studio. Fortnite Creative maps scripted in Verse. <b>3M+ plays</b> cumulated on Fortnite.</p>
+      <a href="https://www.safia-creative.com/"><img src="https://img.shields.io/badge/→-safia--creative.com-0A0A0A?style=flat-square" /></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>🎮 Safia Creative</h3>
-      <p>A <b>creative studio</b> delivering cutting-edge <b>Fortnite experiences</b> built with UEFN and Verse.</p>
-      <a href="https://www.safia-creative.com/"><img src="https://img.shields.io/badge/Visit-safia--creative.com-00b4d8?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=0d1117" /></a>
+    <td width="50%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/02-PLAY%20%26%20CHILL-FF6B6B?style=for-the-badge&labelColor=0A0A0A" /><br/><br/>
+      <sub><b>CASINO · STUDIO · 2025 →</b></sub>
+      <p align="left">Casino studio. Slots and casino games built for <b>Stake Engine</b>.</p>
+      <a href="https://playandchill.bet/"><img src="https://img.shields.io/badge/→-playandchill.bet-0A0A0A?style=flat-square" /></a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🎰 Play'n Chill</h3>
-      <p>A modern <b>gaming & betting platform</b> blending entertainment with a smooth, chill user experience.</p>
-      <a href="https://playandchill.bet/"><img src="https://img.shields.io/badge/Visit-playandchill.bet-00b4d8?style=for-the-badge&logo=dicebear&logoColor=white&labelColor=0d1117" /></a>
+    <td width="50%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/03-STAKEPLAYERCOUNT-4ECDC4?style=for-the-badge&labelColor=0A0A0A" /><br/><br/>
+      <sub><b>STAKE ENGINE · ANALYTICS · 2025 →</b></sub>
+      <p align="left">Real-time tracker for Stake Engine games — player counts, turnover, peak hours.</p>
+      <a href="https://stakeplayercount.com/"><img src="https://img.shields.io/badge/→-stakeplayercount.com-0A0A0A?style=flat-square" /></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>🛒 UEFNstore</h3>
-      <p>The reference <b>marketplace for UEFN assets</b> — tools, props, and systems to accelerate Fortnite creators.</p>
-      <a href="https://www.uefnstore.com/"><img src="https://img.shields.io/badge/Visit-uefnstore.com-00b4d8?style=for-the-badge&logo=epicgames&logoColor=white&labelColor=0d1117" /></a>
+    <td width="50%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/04-UEFN%20STORE-9B5DE5?style=for-the-badge&labelColor=0A0A0A" /><br/><br/>
+      <sub><b>UEFN · MARKETPLACE · 2026 →</b></sub>
+      <p align="left">Marketplace of ready-to-use assets for Fortnite creators — Verse, 3D, UI, templates.</p>
+      <a href="https://www.uefnstore.com/"><img src="https://img.shields.io/badge/→-uefnstore.com-0A0A0A?style=flat-square" /></a>
     </td>
   </tr>
 </table>
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="24"> Achievements
+## `// 02` stack & toys
 
-- 🚀 **Founder & CEO** of Safia Creative (Fortnite / Roblox UGC studio)
-- 🏗️ Shipped production-grade projects in **gaming, automation, and creative tools**
-- 🌍 Active contributor to **open-source** and technical communities
-- 💡 Designing scalable architectures serving thousands of concurrent users
-
----
-
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ec/512.gif" width="24"> Let's Connect
-
-<div align="center">
-
-<a href="https://simnjs.fr"><img src="https://img.shields.io/badge/Website-simnjs.fr-00b4d8?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117" /></a>
-<a href="mailto:contact@simnjs.fr"><img src="https://img.shields.io/badge/Email-contact%40simnjs.fr-00b4d8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
-<a href="https://github.com/simnJS"><img src="https://img.shields.io/badge/GitHub-simnJS-00b4d8?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=simnJS&style=for-the-badge&color=00b4d8&label=Profile+Views" />
-
-</div>
+<p>
+  <img src="https://img.shields.io/badge/UEFN-0A0A0A?style=for-the-badge&labelColor=FFE500&color=FFE500" />
+  <img src="https://img.shields.io/badge/VERSE-0A0A0A?style=for-the-badge&labelColor=FF6B6B&color=FF6B6B" />
+  <img src="https://img.shields.io/badge/ROBLOX-0A0A0A?style=for-the-badge&labelColor=4ECDC4&color=4ECDC4" />
+  <img src="https://img.shields.io/badge/STAKE%20ENGINE-FFFFFF?style=for-the-badge&labelColor=9B5DE5&color=9B5DE5" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/S%26BOX-0A0A0A?style=for-the-badge&labelColor=FFE500&color=FFE500" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-0A0A0A?style=for-the-badge&labelColor=FF6B6B&color=FF6B6B" />
+  <img src="https://img.shields.io/badge/NODE.JS-0A0A0A?style=for-the-badge&labelColor=4ECDC4&color=4ECDC4" />
+  <img src="https://img.shields.io/badge/RUST-FFFFFF?style=for-the-badge&labelColor=9B5DE5&color=9B5DE5" />
+  <img src="https://img.shields.io/badge/DISCORD.JS-0A0A0A?style=for-the-badge&labelColor=FFE500&color=FFE500" />
+</p>
 
 ---
 
-<div align="center">
+## `// 03` now
 
-<sub>📜 Released under the <a href="LICENSE">MIT License</a> · Crafted with ☕ in Lyon, France</sub>
+<a href="https://github.com/simnJS">
+  <img src="https://github-readme-stats.vercel.app/api?username=simnJS&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FFE500&text_color=FAF7F0&icon_color=4ECDC4&include_all_commits=true&count_private=true&card_width=500" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
+---
 
-</div>
+## `// 04` write me
+
+<p>
+  <a href="https://simnjs.fr"><img src="https://img.shields.io/badge/PORTFOLIO-simnjs.fr-0A0A0A?style=for-the-badge&labelColor=FFE500&color=FFE500" /></a>
+  <a href="mailto:contact@simnjs.fr"><img src="https://img.shields.io/badge/MAIL-contact%40simnjs.fr-0A0A0A?style=for-the-badge&labelColor=4ECDC4&color=4ECDC4" /></a>
+  <a href="https://github.com/simnJS"><img src="https://img.shields.io/badge/GITHUB-simnJS-FFFFFF?style=for-the-badge&labelColor=0A0A0A&color=0A0A0A" /></a>
+</p>
+
+<sub><b>simnJS</b> · lyon · <code>simnjs.fr</code></sub>
