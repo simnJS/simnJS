@@ -19,11 +19,11 @@ mostly in typescript and rust, usually with a few ai agents running side by side
 
 ### <samp>❯ cat now.md</samp>
 
-- **[simnJS Store](https://store.simnjs.fr)**: ready-to-use Verse code, game systems and UI for UEFN creators, tested in-game.
-- **Verse tooling**: [prism-verse](https://github.com/simnJS/prism-verse) for typed player saves, [verse-native-bench](https://github.com/simnJS/verse-native-bench) to measure natives on the new VerseVM, [highlightjs-verse](https://github.com/simnJS/highlightjs-verse) for syntax colors.
+- **[Hangar.AI](https://hangar.simnjs.fr)**: open-source desktop app to run Claude Code, Codex, Gemini CLI and OpenCode side by side, with a shared task board over MCP, workers in separate git worktrees, a phone companion, and a gallery of kits ([hangar-ai](https://github.com/hangar-ai)).
 - **[Play'n Chill](https://playandchill.bet)**: original slot games on Stake Engine, on our own Pixi.js front-end engine.
-- **[Hangar.AI](https://github.com/simnJS/hangar-ai)**: one window to run Claude Code, Codex and friends side by side, with a shared task board over MCP.
-- on the side: data-driven TikTok videos rendered with Remotion.
+- **[simnJS Store](https://store.simnjs.fr)**: ready-to-use Verse code, game systems and UI for UEFN creators, tested in-game.
+- **Verse tooling**: [prism-verse](https://github.com/simnJS/prism-verse) for typed player saves, [verse-native-bench](https://github.com/simnJS/verse-native-bench) to measure natives on the new VerseVM.
+- **[AnyPS5](https://github.com/boykopovar/AnyPS5)**: 16 merged PRs into the 50k★ PS5-to-Linux/Windows porting tool, on its system libraries (libc, FreeType, JavaScriptCore, audio3d).
 
 ### <samp>❯ ls ~/studios</samp>
 
@@ -32,7 +32,6 @@ mostly in typescript and rust, usually with a few ai agents running side by side
 | **Play'n Chill** | independent slot studio and Stake Engine provider | [playandchill.bet](https://playandchill.bet) |
 | **Play'n Chill · Roblox** | Roblox studio: Planet Tycoon, Weapons RNG, 100 Players Enter Youtubers | [community](https://www.roblox.com/communities/35788348/Playn-Chill) |
 | **simnJS Store** | Verse code, game systems and UI for UEFN | [store.simnjs.fr](https://store.simnjs.fr) |
-| **Engine Players** | live player counts, turnover and peak hours for Stake Engine games | [engineplayers.com](https://engineplayers.com) |
 | **Tacline** | airsoft platform: game discovery, field map, sign-ups and online payment | [tacline.co](https://tacline.co) |
 
 <sub>also worked with Lofi Girl, Epic Games, Banco de Chile and Chhetz Creative.</sub>
@@ -41,14 +40,12 @@ mostly in typescript and rust, usually with a few ai agents running side by side
 
 | project | what it does | built with |
 |---|---|---|
+| [**hangar-ai**](https://github.com/hangar-ai/hangar) | terminal multiplexer for CLI coding agents, with a shared task board and an orchestrator they drive over MCP | Tauri · React |
 | [**stake-dev-tool**](https://github.com/Stake-Dev-Tool/stake-dev-tool) | open-source workbench and cloud platform for Stake Engine slot games, 6k+ downloads | Rust · Svelte |
-| [**hangar-ai**](https://github.com/simnJS/hangar-ai) | terminal multiplexer for CLI coding agents, with a shared task board they drive over MCP | Tauri · React |
+| [**AnyPS5**](https://github.com/boykopovar/AnyPS5) | contributor: system libraries for a PS5 executable porting tool, 50k★ | C++ |
 | [**prism-verse**](https://github.com/simnJS/prism-verse) | typed player data for UEFN Verse: one schema, generated persistence and migrations | TypeScript |
 | [**verse-native-bench**](https://github.com/simnJS/verse-native-bench) | Fortnite native Verse functions vs hand-written rewrites, on VerseVM, BPVM and UEFN | Verse |
 | [**BetterVerse**](https://github.com/simnJS/BetterVerse) | drop-in Verse math and array functions, 1.1× to 81× faster than the natives | Verse |
-| [**uefn-verse-logs**](https://github.com/simnJS/uefn-verse-logs) | stream Verse logs from UEFN into VS Code, filtered by category and level | VS Code |
-| [**tiktok-live-connector-rs**](https://github.com/simnJS/tiktok-live-connector-rs) | real-time TikTok LIVE events in Rust, port of TikTok-Live-Connector | Rust |
-| [**faceit-plus**](https://github.com/simnJS/faceit-plus) | browser extension for FACEIT CS2 match rooms: map stats, roles, veto helper | WebExtension |
 
 > i got **Verse** into [GitHub Linguist](https://github.com/github-linguist/linguist/pull/7440) and [highlight.js](https://github.com/highlightjs/highlight.js/pull/4524), so `.verse` files finally get colors on GitHub 💗
 
@@ -85,7 +82,6 @@ mostly in typescript and rust, usually with a few ai agents running side by side
       <img src="https://img.shields.io/badge/Tauri-101016?style=flat-square&logo=tauri&logoColor=C9A3F5" alt="Tauri" />
       <img src="https://img.shields.io/badge/Node.js-101016?style=flat-square&logo=nodedotjs&logoColor=C9A3F5" alt="Node.js" />
       <img src="https://img.shields.io/badge/Python-101016?style=flat-square&logo=python&logoColor=C9A3F5" alt="Python" />
-      <img src="https://img.shields.io/badge/discord.js-101016?style=flat-square&logo=discorddotjs&logoColor=C9A3F5" alt="discord.js" />
     </td>
   </tr>
   <tr>
@@ -93,7 +89,6 @@ mostly in typescript and rust, usually with a few ai agents running side by side
     <td>
       <img src="https://img.shields.io/badge/Claude%20Code-101016?style=flat-square&logo=claude&logoColor=9FD8A4" alt="Claude Code" />
       <img src="https://img.shields.io/badge/MCP-101016?style=flat-square&logo=modelcontextprotocol&logoColor=9FD8A4" alt="MCP" />
-      <img src="https://img.shields.io/badge/Remotion-101016?style=flat-square" alt="Remotion" />
     </td>
   </tr>
 </table>
@@ -101,8 +96,8 @@ mostly in typescript and rust, usually with a few ai agents running side by side
 ### <samp>❯ gh stats</samp>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=simnJS&show_icons=true&count_private=true&border_radius=10&bg_color=101016&border_color=26263A&title_color=F5A3C7&icon_color=C9A3F5&ring_color=F5A3C7&text_color=DCDCE4" alt="simnJS's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simnJS&layout=compact&langs_count=8&border_radius=10&bg_color=101016&border_color=26263A&title_color=F5A3C7&text_color=DCDCE4" alt="simnJS's top languages" />
+  <img height="165" src="assets/stats.svg" alt="simnJS's GitHub stats" />
+  <img height="165" src="assets/top-langs.svg" alt="simnJS's top languages" />
 </div>
 
 <br/>

@@ -1,0 +1,29 @@
+name: stats
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate stat cards
+        env:
+          # STATS_TOKEN is optional: a fine-grained PAT adds private contributions to the cards.
+          GH_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python3 scripts/gen-stats.py
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats.svg assets/top-langs.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh stat cards"
+            git push
+          fi
